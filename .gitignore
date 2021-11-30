@@ -1,0 +1,8 @@
+# Ignore
+__pycache__
+.venv
+website/user_browser/migrations/*
+db.sqlite3
+
+# Exceptions
+!website/user_browser/migrations/__init__.py
